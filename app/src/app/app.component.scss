@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    font-family: Roboto, 'Helvetica Neue', sans-serif;
+}
+
+img,
+video {
+    max-width: none;
+    height: auto;
+}
+
+mat-divider {
+    margin-top: 0.4rem;
+    margin-bottom: 0.8rem;
+}
+
+.drawer-container {
+    width: 100%;
+}
+
+.drawer-sidenav-content {
+    display: flex;
+    height: calc(100vh - 64px);
+}
+
+.mat-dialog-content {
+    max-height: 90vh !important;
+}
+
+.grid-content {
+    //min-width: calc(100vh + 340px);
+    mat-card-title {
+        font-size: larger;
+    }
+    mat-card {
+        position: relative;
+        top: 0;
+        transition: top ease 0.2s;
+        cursor: pointer;
+        padding: 8px;
+    }
+    mat-card:hover {
+        top: -10px;
+    }
+    .mat-card-image {
+        width: calc(100% + 16px);
+        margin: 0 -8px 8px -8px;
+    }
+}
+
+.tree-invisible {
+    display: none;
+}
+
+.tree ul,
+.tree li {
+    margin-top: 0;
+    margin-bottom: 0;
+    list-style-type: none;
+}
+
+.mat-nested-tree-node div[role='group'] {
+    padding-left: 20px;
+}
+
+.mat-tree-node {
+    min-height: 32px;
+}
+
+div[role='group'] > .mat-tree-node {
+    padding-left: 20px;
+}
+
+::ng-deep .mat-dialog-container {
+    padding: 12px !important;
+}
+
+::ng-deep .mat-dialog-content {
+    margin: 0 -12px !important;
+    padding: 0 12px !important;
+}
+
+::ng-deep .mat-button-focus-overlay {
+    background-color: transparent !important;
+}

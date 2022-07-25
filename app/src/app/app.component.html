@@ -1,0 +1,262 @@
+<!-- <router-outlet></router-outlet> -->
+<mat-toolbar color="accent">
+  <button mat-icon-button (click)="drawer.toggle()">
+    <mat-icon>filter_list</mat-icon>
+  </button>
+  <span>ICON NFT Rarity</span>
+</mat-toolbar>
+
+<mat-drawer-container class="drawer-container" autosize>
+  <mat-drawer #drawer mode="side" opened>
+    <div class="pl-4 pr-4 pb-4">
+      <!-- collection select -->
+      <div class="mt-4">
+        <mat-form-field fxFlex="100%">
+          <mat-label>Collection</mat-label>
+          <mat-select [(ngModel)]="selectedCollection" (ngModelChange)="onCollectionChanged()">
+            <mat-option *ngFor="let collection of collections" [value]="collection">
+              {{collection.name}}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+      </div>
+
+      <!-- search -->
+      <div class="mb-4">
+        <div fxLayout="row" fxLayoutAlign="center center">
+          <mat-form-field class="mr-2 mt-2">
+            <input matInput placeholder="Search by id..." [(ngModel)]="searchText">
+            <mat-hint align="start">separated by comma</mat-hint>
+          </mat-form-field>
+          <button mat-flat-button color="accent" (click)="search()">Search</button>
+        </div>
+
+      </div>
+
+      <!-- traits count filters -->
+      <div>
+        <div class="text-xl font-medium text-pink-600 mt-2">Meta</div>
+        <mat-divider></mat-divider>
+
+        <div *ngIf="loading.traitCount" fxLayout="row" fxLayoutAlign="space-around center" class="h-full p-8">
+          <mat-progress-spinner color="accent" mode="indeterminate" diameter="60"></mat-progress-spinner>
+        </div>
+        <div *ngIf="!loading.traitCount">
+          <mat-tree [dataSource]="traitCountSource" [treeControl]="traitCountTreeControl" class="tree">
+            <mat-tree-node *matTreeNodeDef="let node" matTreeNodeToggle>
+              <mat-checkbox [(ngModel)]="node.checked" (change)="onFiltersChanged($event)">{{node.key}}</mat-checkbox>
+            </mat-tree-node>
+            <mat-nested-tree-node *matTreeNodeDef="let node; when: hasChild">
+              <div class="mat-tree-node">
+                <button mat-icon-button matTreeNodeToggle [attr.aria-label]="'Toggle ' + node.key">
+                  <mat-icon class="mat-icon-rtl-mirror">
+                    {{traitCountTreeControl.isExpanded(node) ? 'expand_more' : 'chevron_right'}}
+                  </mat-icon>
+                </button>
+                {{node.key}}
+              </div>
+              <div [class.tree-invisible]="!traitCountTreeControl.isExpanded(node)" role="group">
+                <ng-container matTreeNodeOutlet></ng-container>
+              </div>
+            </mat-nested-tree-node>
+          </mat-tree>
+        </div>
+      </div>
+
+      <!-- traits filters -->
+      <div>
+        <div class="text-xl font-medium text-pink-600 mt-2">Traits</div>
+        <mat-divider></mat-divider>
+
+        <div *ngIf="loading.traits" fxLayout="row" fxLayoutAlign="space-around center" class="h-full p-8">
+          <mat-progress-spinner color="accent" mode="indeterminate" diameter="60"></mat-progress-spinner>
+        </div>
+        <div *ngIf="!loading.traits">
+          <mat-tree [dataSource]="traitsSource" [treeControl]="traitsTreeControl" class="tree">
+            <mat-tree-node *matTreeNodeDef="let node" matTreeNodeToggle>
+              <mat-checkbox [(ngModel)]="node.checked" (change)="onFiltersChanged($event)">{{node.key}}</mat-checkbox>
+            </mat-tree-node>
+            <mat-nested-tree-node *matTreeNodeDef="let node; when: hasChild">
+              <div class="mat-tree-node">
+                <button mat-icon-button matTreeNodeToggle [attr.aria-label]="'Toggle ' + node.key">
+                  <mat-icon class="mat-icon-rtl-mirror">
+                    {{traitsTreeControl.isExpanded(node) ? 'expand_more' : 'chevron_right'}}
+                  </mat-icon>
+                </button>
+                {{node.key}}
+              </div>
+              <div [class.tree-invisible]="!traitsTreeControl.isExpanded(node)" role="group">
+                <ng-container matTreeNodeOutlet></ng-container>
+              </div>
+            </mat-nested-tree-node>
+          </mat-tree>
+        </div>
+
+      </div>
+    </div>
+  </mat-drawer>
+
+  <div class="drawer-sidenav-content">
+
+    <!-- Main -->
+    <div class="ml-4 mr-4 mt-2 mb-4">
+      <!-- collection info -->
+      <div class="w-full min-w-full">
+        <div class="h-40">
+          <img src="{{selectedCollection.image}}" style="object-fit: cover; width: 100%; height: 100%;" />
+        </div>
+        <div class="text-2xl font-medium text-pink-600 mt-4">{{selectedCollection.name}}</div>
+        <mat-divider></mat-divider>
+
+        <div fxLayout.xs="column" fxLayoutAlign.xs="space-between none" fxLayout="row"
+          fxLayoutAlign="space-between start" class="text-sm">
+          <div class="pr-8">
+            <div class="text-pink-600 font-medium">Description</div>
+            <div>{{selectedCollection.description}}</div>
+          </div>
+          <div class="">
+            <div class="text-pink-600 font-medium">Contract</div>
+            <div>{{selectedCollection.contract}}</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- grid of nfts -->
+      <div class="mt-8 mb-8">
+
+        <!-- loading -->
+        <div *ngIf="loading.nfts" fxLayout="row" fxLayoutAlign="space-around center" class="h-full p-16">
+          <mat-progress-spinner color="accent" mode="indeterminate" diameter="60"></mat-progress-spinner>
+        </div>
+
+        <div *ngIf="!loading.nfts">
+          <!-- sort paging -->
+          <div fxLayout.xs="column" fxLayoutAlign.xs="space-between none" fxLayout="row"
+            fxLayoutAlign="space-between center" class="mt-2 mb-4">
+            <div>
+              <mat-form-field fxFlex.xs="100%">
+                <mat-label>Sort by</mat-label>
+                <mat-select [(ngModel)]="sortBy" (ngModelChange)="onSortByChanged()">
+                  <mat-option value="rarity">Rarity</mat-option>
+                  <mat-option value="id">Id</mat-option>
+                </mat-select>
+              </mat-form-field>
+            </div>
+            <div>
+              <mat-paginator fxFlex.xs="100%" [length]="totalNfts" [pageSize]="pageSize" [pageIndex]="pageIndex"
+                [pageSizeOptions]="pageSizeOptions" aria-label="Select page" (page)="onPageChanged($event)">
+              </mat-paginator>
+            </div>
+          </div>
+
+          <!-- grid -->
+          <div fxLayout="row wrap" fxLayoutGap="8px grid" class="grid-content pb-32 lg:pb-6">
+            <div fxFlex="12.5%" fxFlex.xs="100%" fxFlex.sm="25%" *ngFor="let nft of nfts">
+              <mat-card (click)="viewNftDetail(nft)">
+                <img *ngIf="selectedCollection.assetType == 'image'" mat-card-image src="{{nft.image}}"
+                  loading="lazy" />
+                <video *ngIf="selectedCollection.assetType == 'video'" class="mat-card-image" src="{{nft.image}}"
+                  autoplay="autoplay" loop="loop" loading="lazy"></video>
+                <mat-card-content>
+                  <div class="flex flex-row items-center">
+                    <div class="text-base md:text-sm font-medium text-left text-pink-600">
+                      Rank {{nft.rank}}
+                    </div>
+                    <div class="text-base md:text-sm font-medium text-right flex-grow ">
+                      #{{nft.id}}
+                    </div>
+                  </div>
+                  <div class="text-base md:text-sm text-gray-600">
+                    {{nft.name}}
+                  </div>
+                </mat-card-content>
+              </mat-card>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</mat-drawer-container>
+
+<ng-template #viewDetailDiaglogRef>
+  <mat-dialog-content>
+
+    <div fxLayout="row" fxLayoutAlign="start start" fxLayoutGap="5px" fxLayout.xs="column"
+      fxLayoutAlign.xs="space-between none">
+      <div class="w-72 p-3 md:w-96">
+        <mat-card>
+          <img *ngIf="selectedCollection.assetType == 'image'" mat-card-image src={{selectedNft.image}} />
+          <video *ngIf="selectedCollection.assetType == 'video'" class="mat-card-image" src="{{selectedNft.image}}"
+            autoplay="autoplay" loop="loop"></video>
+          <mat-card-content>
+            <div class="flex flex-row items-center">
+              <div class="text-xl font-medium text-left text-pink-600">
+                Rank {{selectedNft.rank}}
+              </div>
+              <div class="text-xl font-medium text-right flex-grow ">
+                #{{selectedNft.id}}
+              </div>
+            </div>
+            <div class="text-xl text-gray-600">
+              {{selectedNft.name}}
+            </div>
+          </mat-card-content>
+          <mat-card-actions class="text-pink-600">
+            <a fxFlex="100" mat-stroked-button
+              [href]="'https://craft.network/nft/' + selectedCollection.contract + ':' + selectedNft.id"
+              target="_blank">
+              <div fxLayout="row" fxLayoutAlign="center center">
+                <img class="m-2 pr-4" src="assets/images/craft.jpg" />
+                <span class="text-xl pr-8">View on Craft</span>
+              </div>
+            </a>
+          </mat-card-actions>
+        </mat-card>
+      </div>
+      <div class="w-72 p-3 overflow-hidden md:overflow-y-auto" style="max-height: 85vh;">
+        <div class="rounded-md bg-pink-600 p-2 text-center text-2xl font-medium">
+          <div class="m-2 text-white">Rarity Score</div>
+          <div class="rounded-md bg-white p-2 mb-2 text-green-600">
+            {{selectedNft.rarity_score.toFixed(2)}}
+          </div>
+        </div>
+
+        <div class="text-xl font-medium text-pink-600 mt-6">Meta</div>
+        <mat-divider></mat-divider>
+        <div class="mb-2 font-medium">
+          <div fxLayout="row" fxLayoutAlign="space-between center" class="pl-1">
+            <div class="text-pink-600">Trait Count</div>
+            <div class="text-green-600 ">+{{selectedNft.trait_count.rarity_score.toFixed(2)}}</div>
+          </div>
+          <div fxLayout="row" fxLayoutAlign="space-between center" class="bg-gray-500 border-gray-800 rounded-md pl-2">
+            <div class="text-white">{{selectedNft.trait_count.trait_type}}</div>
+            <div class="bg-white rounded-md pl-2 pr-2 m-1 w-12 text-right">{{selectedNft.trait_count.count}}</div>
+          </div>
+        </div>
+
+        <div class="text-xl font-medium text-pink-600 mt-6">Traits</div>
+        <mat-divider></mat-divider>
+        <div>
+          <div *ngFor="let attr of selectedNft.attributes" class="mb-2 font-medium">
+            <div fxLayout="row" fxLayoutAlign="space-between center" class="pl-1">
+              <div class="text-pink-600">{{attr.trait_type}}</div>
+              <div class="text-green-600">+{{attr.rarity_score.toFixed(2)}}</div>
+            </div>
+            <div fxLayout="row" fxLayoutAlign="space-between center"
+              class="bg-gray-500 border-gray-800 rounded-md pl-2">
+              <div class="text-white">{{attr.value}}</div>
+              <div>
+                <div class="bg-white rounded-md pl-2 pr-2 m-1 w-12 text-right">
+                  {{attr.count}}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </mat-dialog-content>
+</ng-template>
