@@ -1,0 +1,3259 @@
+{
+    "name": "KrazyCats",
+    "contract": "cxb5ec6bfa92134b8d4883c16d340e8ad541ed79ff",
+    "total": 250,
+    "description": "One of the first NFT Collections on Craft Marketplace with first randomize drop and was sold out within few hours, KrazyCats are fixed set of only 250 generated Cats on the ICON network. Each KrazyCat rarity is indicated by the number of accessories its wearing. The more accessories its wearing the more rare its than others",
+    "image": "https://craft-network.mypinata.cloud/ipfs/QmPa3nSM6MxoMVGebErBpoxwD7gojLmarXbGrVxuwnin9E",
+    "items": [
+        {
+            "name": "Krazy Cat-001",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 001 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qmf75S4hpig7UE4iuG9kzciTpqzEXq5cw8yHRzUoUPpRxD",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 1
+        },
+        {
+            "name": "Krazy Cat-010",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 010 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmPPae9DFSy4JAQxHENjWSFicQicBh6HvsMPaLZZwdJEWQ",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 2
+        },
+        {
+            "name": "Krazy Cat-100",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 100 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmXpxB5KjdBqHwdq3Hu3c7pfDbxzqPXpRx9Ewgvz1Ge3kc",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 3
+        },
+        {
+            "name": "Krazy Cat-101",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 101 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmXUKxy46MddgzRiwPZLRp5Rm5CtHYoeVLNsvReyts4oQ8",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 4
+        },
+        {
+            "name": "Krazy Cat-102",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 102 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmU8oaULVZPq5bxzyx3sc6eM8Gb7uKwuZn5SBPrZYur1N1",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 5
+        },
+        {
+            "name": "Krazy Cat-103",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 103 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmbzhgHYigLrMRzqU8NRMw8LJrxshzpMmPS1CSY36JyzpX",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 6
+        },
+        {
+            "name": "Krazy Cat-104",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 104 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmWsTgC7FFPAHbCarsLSMBknf3mhy6CkmB6hmnsLDHJpDv",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 7
+        },
+        {
+            "name": "Krazy Cat-105",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 105 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmdNDpR2usKAH9zHW915qhqJTmDpcsQ1P8JjL71oG6Ejyy",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 8
+        },
+        {
+            "name": "Krazy Cat-106",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 106 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmbyhhHUC2HGizF27EpwKKrzZBnN9j2vG3GDUzsss5bZ2c",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 9
+        },
+        {
+            "name": "Krazy Cat-107",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 107 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmW55rM4TVquWXrDATUmTqQ8wnZpPaXKPXfuoa8qVemmBS",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 10
+        },
+        {
+            "name": "Krazy Cat-108",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 108 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmWNgCsSQgCuzsWmZ3S6jtHde1dLsigvDiYAFZ6KyGouiG",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 11
+        },
+        {
+            "name": "Krazy Cat-109",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 109 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmUCZdHt6TFSTixa9wNx79eCx6VykpiyEnTP4FLnAcUZDY",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 12
+        },
+        {
+            "name": "Krazy Cat-011",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 011 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmarYQhRUw5ekxPx1r7zwwp6uSGrHBuEjLeRLFDR216Dxe",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 13
+        },
+        {
+            "name": "Krazy Cat-110",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 110 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmadJrKFjWmt3ApsLBFuBuNgqxpRtV7PdagqgwfAkDuhSR",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 14
+        },
+        {
+            "name": "Krazy Cat-111",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 111 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmaKaVmiAtPRG8w6ZjQ1neTwv1oUxwntuhZsprSr8wtt5n",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 15
+        },
+        {
+            "name": "Krazy Cat-112",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 112 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qmd7pxjohJfKrX57wCKxRq8nJeNEesbzcNZK4uDntb1Gze",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 16
+        },
+        {
+            "name": "Krazy Cat-113",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 113 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmSE3BJzLzBzCvikVsFYDp67ZFr7iW5wL5HBPPnumRRywZ",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 17
+        },
+        {
+            "name": "Krazy Cat-114",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 114 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmNVdn3wz4HUWzsXYMkzq5k6r3RqSJBRUZF6kqsxmdribq",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 18
+        },
+        {
+            "name": "Krazy Cat-115",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 115 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmYYjZuf5tWLfQRiZpJT9jpo7pWJKX1dL61YiAWMK38XyZ",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Legendary",
+                    "percentage": "2.4% have this trait"
+                }
+            ],
+            "id": 19
+        },
+        {
+            "name": "Krazy Cat-116",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 116 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmQAMursN86Ztz7oqzXGPLqPZ3AErS8xFKTtFpqRShFqbE",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 20
+        },
+        {
+            "name": "Krazy Cat-117",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 117 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qmai1s326fUKoeaTT7BpiMxiZyixkFc36XX3EuqFofbHjj",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 21
+        },
+        {
+            "name": "Krazy Cat-118",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 118 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmSnhjRf9WkNLRWTWpEH5j1ihAZGayPXR37rPC6RDSsVD3",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 22
+        },
+        {
+            "name": "Krazy Cat-119",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 119 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmfRVKk1s7Nia97j8AZ9BVJeCzhLS12dVxgKY9scdzxXA5",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 23
+        },
+        {
+            "name": "Krazy Cat-012",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 012 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmcAipJtkEUEGFgG8rj6cvRgZw4sQdVZEGQoY6KmtRKatC",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 24
+        },
+        {
+            "name": "Krazy Cat-120",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 120 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmcuWiVzwehaRXnktfG34Dxvi5HkkQueopDQz4i9GNuRev",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 25
+        },
+        {
+            "name": "Krazy Cat-121",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 121 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmcAatGMoCgRLRxCux1ejR7CcLMKY32JAxZFyhywr6oQgM",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 26
+        },
+        {
+            "name": "Krazy Cat-122",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 122 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qmbjk3Wn1H1aSuhhunqfAk6VjW8BePyCDnXxwdvJ9tpa39",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 27
+        },
+        {
+            "name": "Krazy Cat-123",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 123 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmQELwg15getMX7PDH6N6mPpiHggMAJ9khvGxKyADgjAFR",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 28
+        },
+        {
+            "name": "Krazy Cat-124",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 124 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmS2LnZJk35A8gMn7hn7TwNzQ7jJyWwj6wn6Po6p5XfSyj",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 29
+        },
+        {
+            "name": "Krazy Cat-125",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 125 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmRWa5jbaDkWto7ENqNCGxe5yiQpC6pSyZ84uTRMvGUsun",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 30
+        },
+        {
+            "name": "Krazy Cat-126",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 126 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmVP4nnGrYJPxMWvh2RtzKuaaz4Ad4G76KPBB1yJ2C4Grs",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 31
+        },
+        {
+            "name": "Krazy Cat-127",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 127 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmeJ3ecVFMZaZz2E5RVjv9xjDBUVPQtNAjvgGaLGfSZBQm",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 32
+        },
+        {
+            "name": "Krazy Cat-128",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 128 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmddX5DfE2h2S5vUySTm9xHRfwzumVGPf1h1bNczNXvC1f",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 33
+        },
+        {
+            "name": "Krazy Cat-129",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 129 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmeCgeixr2jBTu57DdcmeFswWkLq9v2PhgVuBxqdEXNy9A",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 34
+        },
+        {
+            "name": "Krazy Cat-013",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 013 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmcaSFnmPzcareFmJAK6y8GsqF1eQMErqHJvmoAJx3o9px",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 35
+        },
+        {
+            "name": "Krazy Cat-130",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 130 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmZVixoM5PntHso1m3yRVrBnSV1PFrGgHeEuc3L9vrY1Tg",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 36
+        },
+        {
+            "name": "Krazy Cat-131",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 131 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qmf8vtdoVgVc3pnxUSQ8zPevancvbspb9Tt1QVEzjm2odH",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 37
+        },
+        {
+            "name": "Krazy Cat-132",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 132 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmUBTkfRmdMCHCoRjsxW1GXeozjJ8wd9f64EjBcFQrw5vU",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 38
+        },
+        {
+            "name": "Krazy Cat-133",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 133 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmPeLoLn7uSHg3zHFcBMbHqm65PaCsVBGKhc33AiYT9s3K",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 39
+        },
+        {
+            "name": "Krazy Cat-134",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 134 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmSAgWA7fRek8HEYXdFo7jez6eo9EkYW5Kg2zgLbGYTCYn",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 40
+        },
+        {
+            "name": "Krazy Cat-135",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 135 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmcX57CseGszkuxY6h7ETTtAATS3zmEDVtbAAdkMNkEXnd",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 41
+        },
+        {
+            "name": "Krazy Cat-136",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 136 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmUtBzAf9ZVVHu42YymNA7rHodGaUBmqKnUgDGTrfqdX4e",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 42
+        },
+        {
+            "name": "Krazy Cat-137",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 137 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmdLT7dRFtLRdF3d5YVjVUVu3iSDzugR3ssJSjcH1rbWQH",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 43
+        },
+        {
+            "name": "Krazy Cat-138",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 138 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmNg6xAPqnkMiKfw7LNJKiReWNkReYunEW4Asb3iEmjeQv",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 44
+        },
+        {
+            "name": "Krazy Cat-139",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 139 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmapbF1RQzGoce2PRjohgr8TSvRyAwMkgpMt5LoKiSwowE",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 45
+        },
+        {
+            "name": "Krazy Cat-014",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 014 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmQXcLFvHstV4VUvcKatGD2o7KDRxWQoV4U1hsVyfSYdNz",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 46
+        },
+        {
+            "name": "Krazy Cat-140",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 140 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmeqEoqrJ4n3z1uGUZcZPM7BYqv5LVRhhd4JEo9Z4oMFn9",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 47
+        },
+        {
+            "name": "Krazy Cat-141",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 141 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmdvtVq9Vmf85NU5kPoAhMxNpw6qG2DH6gqcK2mqySFDFA",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 48
+        },
+        {
+            "name": "Krazy Cat-142",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 142 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmNsvdLoL5S1KVxXRZ8cggXMaFf1iddZ5vwZpcuw7GLeFZ",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 49
+        },
+        {
+            "name": "Krazy Cat-143",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 143 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmUMKEBNrBDjFT4dm1tyHqhU69dbg6dbUbHJWDz7448dFK",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 50
+        },
+        {
+            "name": "Krazy Cat-144",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 144 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmeP5weZAvXCKEf9bZ2wp39kr5tkjnhe3wwEgH44Wgbj7d",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 51
+        },
+        {
+            "name": "Krazy Cat-145",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 145 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmaAQE5bJ8LmXF3f9htrGNMp6yrgXURcWz6tcdP4VHAGc2",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 52
+        },
+        {
+            "name": "Krazy Cat-146",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 146 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmZ7xJwffneVeJhUZNYnEijb44JVU1d2SPPHDrQzvWjqHR",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 53
+        },
+        {
+            "name": "Krazy Cat-147",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 147 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmZ518fQqT5g7772iw83fN8jMXYgQBa2MhUNgGzsKKm7RG",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 54
+        },
+        {
+            "name": "Krazy Cat-148",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 148 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmW3TX58LtdNvSdP5TxPAUt9MTyaCHSNncQfzmsx9Byi43",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 55
+        },
+        {
+            "name": "Krazy Cat-149",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 149 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmYWfocQAxNLh43jTMvRK8SgUFN1gerstS6esPQSNoiPnM",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 56
+        },
+        {
+            "name": "Krazy Cat-015",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 015 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmaUvTzBNQzZMqR8pFTTvzoraGZC8TSb4WL265txfKM7Ek",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 57
+        },
+        {
+            "name": "Krazy Cat-150",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 150 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmSSJk3voEH4YCtW7eZAGbp48JC1tFpxp7g5rcCvvnqPJw",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 58
+        },
+        {
+            "name": "Krazy Cat-151",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 151 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmSjiuNjJENDgRUxzzmiAJ1pofd865ZL5VhDkYaygfozh6",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 59
+        },
+        {
+            "name": "Krazy Cat-152",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 152 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmYqBsdQMQhSe8dvd5ursA8mSkJiMQRsFNkUaJU6c8JeGv",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 60
+        },
+        {
+            "name": "Krazy Cat-153",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 153 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmUYjgijybeCA3RXLYk6sM98kqxHhocQuqf5xziWtUkErY",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 61
+        },
+        {
+            "name": "Krazy Cat-154",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 154 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmRtrq2S7DPTLMyY6MLRVpuDaPJvtMSUfn1CYWKKBNh1U9",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 62
+        },
+        {
+            "name": "Krazy Cat-155",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 155 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmTbaFttUzFJvn7x3F8zoDCwcJd9jiYMMpL2PNjyqdujWk",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 63
+        },
+        {
+            "name": "Krazy Cat-156",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 156 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmVXtLxjqpo7JFjQ1H5qtkzTK1FrjwZMngEWi5meHKzZHZ",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 64
+        },
+        {
+            "name": "Krazy Cat-157",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 157 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmWWAqwVafxp9RCPF6QpME2X7BQpmePz9BywzQXVaSf25a",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 65
+        },
+        {
+            "name": "Krazy Cat-158",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 158 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmSr7hMJqwa4RXj2Fa5S7yDqS2d8ENhzEizdAZLwvAiird",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 66
+        },
+        {
+            "name": "Krazy Cat-159",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 159 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmP8LB4RtmXgArU9dkXMuCWNTBGLbzZtmnUHex32jmYCQy",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 67
+        },
+        {
+            "name": "Krazy Cat-016",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 016 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmNu9VUWWeDBjMqUYV58mtDav3tsGh17WTDnb9zh5cev2v",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 68
+        },
+        {
+            "name": "Krazy Cat-160",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 160 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmPrcJN9VbT8ppF2568pAJ6SgLL2Jc13SNnaG1EwjXq9H8",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 69
+        },
+        {
+            "name": "Krazy Cat-161",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 161 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmSoBZL6VW56ckJxmoojFejRwAbNQahYozPAZFfceQjj13",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 70
+        },
+        {
+            "name": "Krazy Cat-162",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 162 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmdnNAU2kvDVPvsTRmFhNUAbk2dv1kzcQb8gibz597LJtt",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 71
+        },
+        {
+            "name": "Krazy Cat-163",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 163 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmbaGLodrAYst8fcH2vYTy2WY1zzGmTRvGuVeqGAvuckBR",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 72
+        },
+        {
+            "name": "Krazy Cat-164",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 164 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmVj9QpGSSap96Bkt4mAmoaEE2vsCCDXZDcg74DSNbNinq",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 73
+        },
+        {
+            "name": "Krazy Cat-165",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 165 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmaeUjG71QPa9kLVqgA7X6Lvy33CYX5MMAHAhrV1uYinR8",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 74
+        },
+        {
+            "name": "Krazy Cat-166",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 166 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmUAT77SQwAdj7LrvWWto3XezP9zWVinQsqz5pw2srqw4J",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 75
+        },
+        {
+            "name": "Krazy Cat-167",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 167 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmVjtLJJSYL1c89UB4L9Vkk9FrnzKxn1ViCsC43XkgzjxH",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 76
+        },
+        {
+            "name": "Krazy Cat-168",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 168 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmPZ6VtqHs4VT5zMZ8n1DoorofF7omPHV5PKDSvLenvx8D",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 77
+        },
+        {
+            "name": "Krazy Cat-169",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 169 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmdLqCz8XNZ5gwXPPyv6LcnrZSadECC5pWNbehNE4AY8P5",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 78
+        },
+        {
+            "name": "Krazy Cat-017",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 017 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qmb89nwgHNt6KoERSKVwzFDNA3GVjjGhAyZyha7XUsRwFY",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 79
+        },
+        {
+            "name": "Krazy Cat-170",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 170 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmT4YgwRFNUdVpbj1nuV7Uqakk6xxMKmfPRoT1CmT6WHZQ",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 80
+        },
+        {
+            "name": "Krazy Cat-171",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 171 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmQV1D3AGDvNPPpzDxSr8FLsCgofm1CGdTkgiMp7zZv9Ru",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 81
+        },
+        {
+            "name": "Krazy Cat-172",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 172 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmQYwj3bgLQ7a8MbShVxkaQSDLQG8WZMkNgjVzqSjn8xzN",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 82
+        },
+        {
+            "name": "Krazy Cat-173",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 173 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qmasc6aviVzhF5r8DFs5of7uNQzsPdXfqdJnUFja4KhDFv",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 83
+        },
+        {
+            "name": "Krazy Cat-174",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 174 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmTdZVYhpykiZLCVrnZDzSRN1E7oUWquEkzsR4o2wwADLK",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 84
+        },
+        {
+            "name": "Krazy Cat-175",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 175 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmU1Gsubx4SL2Vj34UagFAyR3hE7qCLH2DTthfU86DGdMc",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 85
+        },
+        {
+            "name": "Krazy Cat-176",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 176 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmPcSVncKp72gaEYJ9m1EPzJzNaWv5UdXkgzJwYryFaT6c",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 86
+        },
+        {
+            "name": "Krazy Cat-177",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 177 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmPMzXJS5x9qA9iuYPsQ6R1tvj2QieKf3uMsjmiULFj74U",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 87
+        },
+        {
+            "name": "Krazy Cat-178",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 178 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmUN87TKMSW6chrLSLQMJcxb8cftAjSJQq9hgfnnNN3YFs",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 88
+        },
+        {
+            "name": "Krazy Cat-179",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 179 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmX4ikRSN2v2CWAxRx8kw3dbGfNy3BBZ9isx7VphX14EfL",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 89
+        },
+        {
+            "name": "Krazy Cat-018",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 018 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmSQhRZwmKQQYWiKfAYe1uvG9Cc7UpC9QdRpZYy52Zz75q",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 90
+        },
+        {
+            "name": "Krazy Cat-180",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 180 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmZ8L1qwziMd46wFqKdHjA8y24nGXr2fd9r4zb9iUZLUYA",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 91
+        },
+        {
+            "name": "Krazy Cat-181",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 181 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmQ9D96KggpQMn4ygTCmfXLut9jYmnaWNYkcCjVxZzqbbE",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 92
+        },
+        {
+            "name": "Krazy Cat-182",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 182 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmdivMSvFnGX8oLFPR1TqJ1Yq9omAab6cxLV7GRZrcLZWp",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 93
+        },
+        {
+            "name": "Krazy Cat-183",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 183 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmZXw5kSkqRLHHoX7gbaDSFh3V7PHPnkxR8jmH1ivW2wwK",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 94
+        },
+        {
+            "name": "Krazy Cat-184",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 184 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmUM95tpVtgDbRKmPmEYLVuvgQpzztoHUymt51UurHYCFr",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Legendary",
+                    "percentage": "2.4% have this trait"
+                }
+            ],
+            "id": 95
+        },
+        {
+            "name": "Krazy Cat-185",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 185 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmfXBmPgevq1jTjG5eSq53NLj2q6c79GS1kQzeDAAytE85",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 96
+        },
+        {
+            "name": "Krazy Cat-186",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 186 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmbZZY6JmZ1YtafioxDBwR3jSb2c3scN4PP9y1jd38pbZZ",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 97
+        },
+        {
+            "name": "Krazy Cat-187",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 187 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qmb9yA31thJC6QoMgsH49mKnXAJQ3R8YKxasVSVzhMmsfb",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 98
+        },
+        {
+            "name": "Krazy Cat-188",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 188 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmQN5TBFqqyvpM1Zf6S8DMkdYKafhhm3rDFhMz6uRw4MwZ",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 99
+        },
+        {
+            "name": "Krazy Cat-189",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 189 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmYpH1Htqrq7EdhU8UUrmJrksUvAV7oQfwMg2UirHQ7vfR",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 100
+        },
+        {
+            "name": "Krazy Cat-019",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 019 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmR68zto8Q19YtXpWg28dFLyHnuZuKfKxKDKYwhYsPdBnZ",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 101
+        },
+        {
+            "name": "Krazy Cat-190",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 190 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmWm4xoGmV9JNkGh2dHCpHFNYWSEHvsLhp7Kqqgp4oUa3E",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 102
+        },
+        {
+            "name": "Krazy Cat-191",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 191 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmNt634MUWJUa1rKFiWxmmB8JGqdNVWRdxCTFnBANYquto",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 103
+        },
+        {
+            "name": "Krazy Cat-192",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 192 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmQTEACjnJkBjKdC6B5B38wZxUm2SAvQJRJGpY8Uib7kX3",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 104
+        },
+        {
+            "name": "Krazy Cat-193",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 193 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmUzXk2zjKWXoKyALedzaqNkPeFQZfEaNiqs6Ni1G5JWRh",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 105
+        },
+        {
+            "name": "Krazy Cat-194",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 194 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmXgFWF8qqs2YPHvmoqfADV6Rf2BddYRLm2rEXy8BG6iGr",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 106
+        },
+        {
+            "name": "Krazy Cat-195",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 195 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmZ8s8xpad9BnmLrUMP77Jnzxcs5JNohEuCcpQpvCULtvD",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 107
+        },
+        {
+            "name": "Krazy Cat-196",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 196 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmYgJoKG1gGoZXxaNwMu9XV99odASZAKVUW4GGNcRfW75z",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 108
+        },
+        {
+            "name": "Krazy Cat-197",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 197 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmQiVa3VkEr6izNm1Lrf1oBJkEpXfWfRAegXoFz782ncoa",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 109
+        },
+        {
+            "name": "Krazy Cat-198",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 198 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmdAC5h9GR64yqkEPXdmx8RmQnwxBD6BDTfqYDBKa8yfCc",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 110
+        },
+        {
+            "name": "Krazy Cat-199",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 199 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmNm9dXc9yYMhHAQ6mjk8aog4hSztWuJ4dP1uansGcGnNp",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 111
+        },
+        {
+            "name": "Krazy Cat-002",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 002 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmPwYDaDn8VHqZwdkjTYd5m8k12d1LTVL7UA6vNwtF9XP9",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 112
+        },
+        {
+            "name": "Krazy Cat-020",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 020 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmZ7YKLCTPYkA7ohLVXCL53oacMzUx1kgHE4Z34shnNMov",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 113
+        },
+        {
+            "name": "Krazy Cat-200",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 200 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmQou8QHo3CK6sYzuSTRjsWupARe2HPgvorHVVzWU9YGss",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 114
+        },
+        {
+            "name": "Krazy Cat-201",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 201 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmTbWvzzddoZguK5LGTXCcCtpFKM7jK2tDn2LUBUprERJm",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 115
+        },
+        {
+            "name": "Krazy Cat-202",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 202 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmZixbwfFY7t1g3LhrhbezGNposNXp52XscZuykYRefRTx",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 116
+        },
+        {
+            "name": "Krazy Cat-203",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 203 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmXaMz92kw8iBuRzRcxsZwc6rsTdJGs3yDpECMvXG7YrHk",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 117
+        },
+        {
+            "name": "Krazy Cat-204",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 204 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmPF6m7R71avDJYvQXFq1EPgdKdfjUDLthVuXjTqcSBg3Y",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 118
+        },
+        {
+            "name": "Krazy Cat-205",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 205 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmaZYXTkPK2LdjoRBCtDfCAXa2xUaPxZXX7jU9vv1sLAxT",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 119
+        },
+        {
+            "name": "Krazy Cat-206",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 206 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qmb9mPLv1UivHhqxCgESkcMYrzWn7v9Cgb8SaAbvSeByrZ",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 120
+        },
+        {
+            "name": "Krazy Cat-207",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 207 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmXZESPaspLwHLc4Bi1TtYRf6FAophXGdMvWWMDCKcfiyB",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 121
+        },
+        {
+            "name": "Krazy Cat-208",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 208 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qmcqzqp3jAFnMrp3ZtFXDksbdcbRyJubBUK4KiN2m7Ah75",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 122
+        },
+        {
+            "name": "Krazy Cat-209",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 209 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmZuUbt16AdZ2V7UR68dQVgiu6fBknCzmdnmnLVmAhczzq",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 123
+        },
+        {
+            "name": "Krazy Cat-021",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 021 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmTawxNhHrKCureXXnGPCoCC4Gu1e7ipkmag2BBkczsnFC",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 124
+        },
+        {
+            "name": "Krazy Cat-210",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 210 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmSA89p4aP5iJPhccHAoSBMHGMGdouYZEKDeosVa1QfuX8",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 125
+        },
+        {
+            "name": "Krazy Cat-211",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 211 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qma17DsxkhxmGZ9F6BDEN8fJiJEMwuqCa9yRheA2tfNLT1",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 126
+        },
+        {
+            "name": "Krazy Cat-212",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 212 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qme8TThUrhMVLpWuCYENZH64gecEiFqwhvG8Cj9YpXSSGh",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 127
+        },
+        {
+            "name": "Krazy Cat-213",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 213 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmQvm49TPncSPShVt7EeLbTBcaB1vgvKSZzzumVw82Eya1",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 128
+        },
+        {
+            "name": "Krazy Cat-214",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 214 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmWFyLE9ZMgUW8Gn6gq7TJoCv9AZ2LFrBuej7hg8SCLjKB",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 129
+        },
+        {
+            "name": "Krazy Cat-215",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 215 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmRpdBSRQVKoHeRu9VrHmv8TqqnEyEkHKeUwAUEZ34APeJ",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 130
+        },
+        {
+            "name": "Krazy Cat-216",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 216 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmPHRo7zALpYSB38rGdNZSAJ8no7puJ2bWgaHmtmuq8c2E",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 131
+        },
+        {
+            "name": "Krazy Cat-217",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 217 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmeqH6h4rTmqPLis9mmB6GX6S92i4oXRwfARuCAf68MHFy",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 132
+        },
+        {
+            "name": "Krazy Cat-218",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 218 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qmcc9xXNe3zMCCvRBZqxxrbQCHZcHbvmnP1H8ghpRnhby3",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 133
+        },
+        {
+            "name": "Krazy Cat-219",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 219 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmZGGznxSAjj5VcGU2wmbrtm32pXYvVia1CcDrsyZ3kT4H",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 134
+        },
+        {
+            "name": "Krazy Cat-022",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 022 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmYuxf2sqc9fUcXeoqcEtbyLKbBYbMLXsYQFrzvcezDtXY",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 135
+        },
+        {
+            "name": "Krazy Cat-220",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 220 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmZABKJbiHXLjmPoRbbjbBqRsHWQquR8WyskxhcCeyzkBY",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 136
+        },
+        {
+            "name": "Krazy Cat-221",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 221 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qmb6sznd84Dz5Uw9tnSfzi8VunibWoxYtZvBYpeH8EttCm",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 137
+        },
+        {
+            "name": "Krazy Cat-222",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 222 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmTcy1vcbnmDaZsHrj6bqgg6pG612KwBNEMMY5fGZpw6yP",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 138
+        },
+        {
+            "name": "Krazy Cat-223",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 223 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmWeRdCc98rCmp2XzbnqZ2g4L5qRCJbuYg4wRxqfAtdTSr",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 139
+        },
+        {
+            "name": "Krazy Cat-224",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 224 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmVhSnPKHqZMxzhayM3aQUtuUQBHwTQYWAjgta833JZWf3",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 140
+        },
+        {
+            "name": "Krazy Cat-225",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 225 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmNUyeD4w2UGyFLvRSLJb1LXSYi7XYLXBVgJGqVU1TYs71",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 141
+        },
+        {
+            "name": "Krazy Cat-226",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 226 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qma2EWJE8QKuXHFfWunpZ8UhSsVnfCsWWoDpdD7idoDLUi",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 142
+        },
+        {
+            "name": "Krazy Cat-227",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 227 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmcQV4dakYUR2wjy4bdSqiFCsqrkxV8NpUQvtEfPYGJ3XT",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 143
+        },
+        {
+            "name": "Krazy Cat-228",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 228 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmZF3dzjsGNAq3XL9KqFPJnZaejmP8gcFjov2J3nFP2gH3",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 144
+        },
+        {
+            "name": "Krazy Cat-229",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 229 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qma8KrbcpFrg4qxS6TPETjhgFEEejo39F1MKG7cruTqxvz",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 145
+        },
+        {
+            "name": "Krazy Cat-023",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 023 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmRgR9gydxrsfaWFnQnVCku3cK6NkaoHGNpYqQKBurc2Ks",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 146
+        },
+        {
+            "name": "Krazy Cat-230",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 230 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmWPFJ9vcM8QMSC6gyoDoZwmKBKoEbW7zimKhTorDc3GbP",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 147
+        },
+        {
+            "name": "Krazy Cat-231",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 231 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmXjCM5r5WyYrCZvNeqLtiVaD3eKC3yLZmEYYnKZ6YjmJk",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 148
+        },
+        {
+            "name": "Krazy Cat-232",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 232 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmSJuqksyy6tzL9rSFWaG4SMgJV8jy1wGqkNnvV2XCdtnN",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 149
+        },
+        {
+            "name": "Krazy Cat-233",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 233 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qmew2PwGzj5ntYHz8hVYBBNmou2tthyL6pLeYrQuimfSuY",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 150
+        },
+        {
+            "name": "Krazy Cat-234",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 234 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qme3DGqC1CZ4QCBxP7LKydPkuYtXr8iiPmFH7kQS4pd9hr",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 151
+        },
+        {
+            "name": "Krazy Cat-235",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 235 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmTKvBvTZuw2KjU2fb5vmS9sXQGo5XMonFx2McnnjAgC6d",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 152
+        },
+        {
+            "name": "Krazy Cat-236",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 236 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmTTWeUyrdRkZYPFaifQmAZ2o77YvtknuuoCTzNTcbtpAK",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 153
+        },
+        {
+            "name": "Krazy Cat-237",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 237 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmeYWnCaQXsHNDKJYPYSuvCkkGDWoJdAhKGFmGjgo14z4r",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 154
+        },
+        {
+            "name": "Krazy Cat-238",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 238 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmQh8Sewvkvac8XjyQNkwJTFAk75hVb95p4XjaouqNPG8k",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 155
+        },
+        {
+            "name": "Krazy Cat-239",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 239 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmWxxLcetzmEY4Qga694xFexXsPFp8KCPffErBxzCoMVdb",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 156
+        },
+        {
+            "name": "Krazy Cat-024",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 024 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmPU4uv74HmNwVdnFCeZy8EUe3K2AK2XgwAcm2KNMGHvJ1",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 157
+        },
+        {
+            "name": "Krazy Cat-240",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 240 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmfWyYNUgNLfufEK3MHySjKBPhASNX8XD3tEr8DceydYQF",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 158
+        },
+        {
+            "name": "Krazy Cat-241",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 241 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmajFuavxS2yNgBvJw4nfuUw8iHrRW1nUZaWeYMuw2QKvo",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 159
+        },
+        {
+            "name": "Krazy Cat-242",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 242 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmdUtpuYMu6kXkVkHuU6AkLp4AVaxXQCkeqRZzDogy9ife",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 160
+        },
+        {
+            "name": "Krazy Cat-243",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 243 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmYUW5hD4xokzXCvxr6Le2QNVXPhTYc2cfEmpbucvRVwP2",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 161
+        },
+        {
+            "name": "Krazy Cat-244",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 244 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmTtaLekaUs3qnPTRDjMm7srv5gewwB6fh44yoWBt9WyEK",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 162
+        },
+        {
+            "name": "Krazy Cat-245",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 245 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmfBB9jRyE2Y8AFs1gjV5sZUYbJ5w9poB53VkXRKASPQyy",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 163
+        },
+        {
+            "name": "Krazy Cat-246",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 246 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmYSX5kP1uCq6ZoMxAiTwZYqru8rPt7es7gSAi6wdBtbFz",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 164
+        },
+        {
+            "name": "Krazy Cat-247",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 247 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmVdUwNFQicThiT1ZV7jT5Ei5mYGY72Zruv5Hx3YYMptux",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 165
+        },
+        {
+            "name": "Krazy Cat-248",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 248 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmZzTQU9EQg8D3eHZEQfCGBdES5Ny9cNb3ViwePgtE6TK8",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 166
+        },
+        {
+            "name": "Krazy Cat-249",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 249 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmXUSnyW51BZEuFskuRFLuS9JRSXudLyoki7tHr8BbrwTD",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 167
+        },
+        {
+            "name": "Krazy Cat-025",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 025 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmYkSpPU6gd23tT8totGE4HKe789q5TNVvWdoGiDAQ1F5s",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 168
+        },
+        {
+            "name": "Krazy Cat-250",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 250 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmNsxWbTQGrPXYpL9YeexD2deyw9AWZHYMdk8VZx3weUu8",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 169
+        },
+        {
+            "name": "Krazy Cat-026",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 026 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmcTwmhpvKSrDAZoQEhqdPsc98snUbGXGZwnHSj7XMKLVH",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 170
+        },
+        {
+            "name": "Krazy Cat-027",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 027 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmTy4kgmxU9wkM1PbVgvMjm4aFcL44SKAjjNkzVuxZhqba",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 171
+        },
+        {
+            "name": "Krazy Cat-028",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 028 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmTFY21jvy22iJfH48ZReoy5hnj926Hx8vUD7HPwMpoBjn",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 172
+        },
+        {
+            "name": "Krazy Cat-029",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 029 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmVQsv9m2N1Z6krEiyU1NNmrvFUDcsHqhfvQ4jLXAsTg4e",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 173
+        },
+        {
+            "name": "Krazy Cat-003",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 003 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmWMPMv8ewhYhj5YShdWRnkArHhqhrWvPvE6srPCEjuzUs",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 174
+        },
+        {
+            "name": "Krazy Cat-030",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 030 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmcxV1sjore7ozYem4pRKqPzeZuDHQ5pACg8qPqoszv8GK",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 175
+        },
+        {
+            "name": "Krazy Cat-031",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 031 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmPsXL9SjSMvD77Wr7QusFxDALARxgVjz1VFBBRZ2e4CgC",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 176
+        },
+        {
+            "name": "Krazy Cat-032",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 032 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmZkp3pJrxky4y7BTNmqgJv5efXXYVa4bZoQ4NCz7Jvyif",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 177
+        },
+        {
+            "name": "Krazy Cat-033",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 033 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmPPWbtLwH576FarqQ8FapCYTKbJuGa9H7eSURiMYVPzpK",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 178
+        },
+        {
+            "name": "Krazy Cat-034",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 034 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmcrokDxGsuFHJDvRGutYFBGQPoSNREGRq6TMrukSMNnt5",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 179
+        },
+        {
+            "name": "Krazy Cat-035",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 035 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmWfggRobdGKvixcooE132UnC83Vx32GAxZdFSLzuofUAL",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 180
+        },
+        {
+            "name": "Krazy Cat-036",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 036 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmUZy9R4xrgHevnndbS4ifjCrG61k1GkkFTznD7me34hHk",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 181
+        },
+        {
+            "name": "Krazy Cat-037",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 037 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmWpWRkGxa73NKuoyuTJfAU1CZH5GAR4ZhsBa9XsgbXPRs",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 182
+        },
+        {
+            "name": "Krazy Cat-038",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 038 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmWUaHhWkHfJSVoW28TpMmuJExXbpzaofbYYmf6x3A8UN6",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 183
+        },
+        {
+            "name": "Krazy Cat-039",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 039 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qmf7NpygNgnR35HrXiJupVu5TipMYVKbH3VdRXCmYfRzP7",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 184
+        },
+        {
+            "name": "Krazy Cat-004",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 004 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmZpPn7nuLYptWQQCA67swEfUYz27jMfi57D1ErUNNRWNW",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 185
+        },
+        {
+            "name": "Krazy Cat-040",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 040 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qmb7eB1T183SX19ywyn7DeBj3VU2tZ71BfhCaFE832oNrS",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 186
+        },
+        {
+            "name": "Krazy Cat-041",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 041 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmSeokC4aR2SxtoX6A7hkwPKSonEwvJC8yhgi69gb1hSVy",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Legendary",
+                    "percentage": "2.4% have this trait"
+                }
+            ],
+            "id": 187
+        },
+        {
+            "name": "Krazy Cat-042",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 042 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmcWfPFkKRTNG4TW5FagKYw9ANNZ5a77uib3UgrdfYoM6T",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 188
+        },
+        {
+            "name": "Krazy Cat-043",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 043 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmXUjq1mDnLd1A1D3ynHbgn8992Eq8xsZCfrcCQzgAPPpy",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 189
+        },
+        {
+            "name": "Krazy Cat-044",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 044 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmSGkfuNTARXjY32KKta2dzXgtamxew8ipoSDjArvnToHg",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 190
+        },
+        {
+            "name": "Krazy Cat-045",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 045 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmdC5aheSE7Q128ChhTtKngwEUDVm3cAMeU8o3usFBm6mz",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 191
+        },
+        {
+            "name": "Krazy Cat-046",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 046 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmfL7ranKEi46rkaCcUHYGSqRHg93BJEetpFBvALfgNgmi",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 192
+        },
+        {
+            "name": "Krazy Cat-047",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 047 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmaekKUXUVTEEZ7HrAY1pzqhWJMeQnoYhhGi1sAsiVoucw",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 193
+        },
+        {
+            "name": "Krazy Cat-048",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 048 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qmcjz4vEZELwtWrcy2DMQqgkFojU9GyJHSwfd21nyoDcyr",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 194
+        },
+        {
+            "name": "Krazy Cat-049",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 049 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmNZ5E7roSCrAcvvyWByroC6XjVvJoBJ1iX68kB5yt4WoA",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 195
+        },
+        {
+            "name": "Krazy Cat-005",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 005 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmcLNEie7RXXD5ED2jmuVRbQrtku4aGDyuadE9GakZiaid",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 196
+        },
+        {
+            "name": "Krazy Cat-050",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 050 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmTKavCixVbe7abN1AwWMJCkqvDGaYpvKVmeLN15YwRVEn",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 197
+        },
+        {
+            "name": "Krazy Cat-051",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 051 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmbxNxZzRpa7MP4TzBLCFLkYwspDHsVVW3KSLw6TZC7Px9",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 198
+        },
+        {
+            "name": "Krazy Cat-052",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 052 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmcKLvKHRvnyay341G3Dwy5zMRbZYASBek8SY8js3xtvtU",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 199
+        },
+        {
+            "name": "Krazy Cat-053",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 053 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmcsKE4KkfamA2HmCWj8RR7jRtyaVPzDEtNSPTmhBEHV2J",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 200
+        },
+        {
+            "name": "Krazy Cat-054",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 054 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmX6hFTbu7iWinG5H6cXj7LCqMuxwSnz6jQsK8h7Lsr18k",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 201
+        },
+        {
+            "name": "Krazy Cat-055",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 055 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmcpAPrWXu4CbyoPuV17NwMzjU2Ma6FwA7X8g8pY6vWYhS",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 202
+        },
+        {
+            "name": "Krazy Cat-056",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 056 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qmbh3xQdrD4paYamZitRx3kLL6HgZjWKQ3wnca9yKAiaUd",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 203
+        },
+        {
+            "name": "Krazy Cat-057",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 057 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmP5Y24sZ3Xu2bFtrJJSgV4xNvcZHk8xo474BeooKzh21X",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 204
+        },
+        {
+            "name": "Krazy Cat-058",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 058 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmXFakzZzmbcw8Pzg4xkFWW7oE3aYmse5dUtGkGs4YaeoR",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 205
+        },
+        {
+            "name": "Krazy Cat-059",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 059 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmfZpTcufu24JaNKv6aMgMBhZiaTByEyXrtUmPLYok6A3k",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 206
+        },
+        {
+            "name": "Krazy Cat-006",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 006 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmQNje5kwmTKgNpHqf5MdbFrSBAxQqQqGYDAkWLHxDZQG4",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Legendary",
+                    "percentage": "2.4% have this trait"
+                }
+            ],
+            "id": 207
+        },
+        {
+            "name": "Krazy Cat-060",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 060 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qme6LuN7tVu1kcpno9hE8D53mnMCx6p5M3FYVrYTLAUY11",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 208
+        },
+        {
+            "name": "Krazy Cat-061",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 061 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmWh3cfPsZxPZgRE37rHBbQSpmaUHV3pxcAAfjJhn32Uew",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 209
+        },
+        {
+            "name": "Krazy Cat-062",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 062 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmbZ7uPqo7cNswtPsTzVDWNA8gRmAXYFVf2XwiiR5ZdJun",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 210
+        },
+        {
+            "name": "Krazy Cat-063",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 063 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmZdM8Kh8gBLEPeHMRdmaziHv4E1JzJ6qEguiZiwkYLPPt",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 211
+        },
+        {
+            "name": "Krazy Cat-064",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 064 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmQRd1hQzBqRnxVc1P36DiT7QcpKmfczNeiDhahLhe8P9B",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 212
+        },
+        {
+            "name": "Krazy Cat-065",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 065 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmRxSEryf3fxheGqwqdeuf5aJdRi9CgviDoTM7wCmdT2wH",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 213
+        },
+        {
+            "name": "Krazy Cat-066",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 066 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmXCLaGM9HJe86M3nWmdzzAVjWzHC4KgU2m6xQ9ycNr6Wu",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Legendary",
+                    "percentage": "2.4% have this trait"
+                }
+            ],
+            "id": 214
+        },
+        {
+            "name": "Krazy Cat-067",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 067 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmWb9g3GhwWxvAnFDmzwUinEb1Hg7AHbSwRFHgPe6mabf8",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 215
+        },
+        {
+            "name": "Krazy Cat-068",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 068 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmYvZwFD1pN9M86GCderMosbvGMx52NDpHESqKfjri5oph",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 216
+        },
+        {
+            "name": "Krazy Cat-069",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 069 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmbCBAF8vTEPFvnZSZmJmi7yowZ4mjPi1eTuXKJ4memarc",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 217
+        },
+        {
+            "name": "Krazy Cat-007",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 007 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmVV6DiFyrqA1AzKY1q1HkV9whziJsnhS7e1VWH6BLWm1o",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 218
+        },
+        {
+            "name": "Krazy Cat-070",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 070 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmNaee3gKzgzLvQZpBda9Avt839jkebigYztjCg8uXXEBT",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 219
+        },
+        {
+            "name": "Krazy Cat-071",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 071 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmUp17Xjv67mr2Sj579XkdeWpxm8sw74j1xcsScPwCLh1p",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 220
+        },
+        {
+            "name": "Krazy Cat-072",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 072 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmTKBKB8PTyKh8sDWjcUfqhqHqKufXqeMirfQftGKAbhwS",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 221
+        },
+        {
+            "name": "Krazy Cat-073",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 073 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmSawjhhWMF45kBrF4G7m9Zin7Lu5wXmstuogfK8WP1p5Q",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 222
+        },
+        {
+            "name": "Krazy Cat-074",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 074 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmRGnvxXjykY84eAQXhi8sXwPtXAu1f4y4bArV4CTaBn9S",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 223
+        },
+        {
+            "name": "Krazy Cat-075",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 075 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmW54MejGUom6uqZuJBnfRXxQ7GbZSrPxyjjSq9jxRP1rb",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 224
+        },
+        {
+            "name": "Krazy Cat-076",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 076 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmU3Fc1uoycX9wDwiMNtfKgCLSXEQZTFCUk55LrVaCHYzq",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 225
+        },
+        {
+            "name": "Krazy Cat-077",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 077 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmPrJRLjakTnrzbH9fBc6y8GGgKqXjU3EmrxALLYdg944M",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 226
+        },
+        {
+            "name": "Krazy Cat-078",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 078 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmcMLW1bXo7PVSkrD6hQSibU1xMMSopSjTg5fNNjNvYxzL",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 227
+        },
+        {
+            "name": "Krazy Cat-079",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 079 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmVg148BHV8RExBNGJxvCcnaEZUTgs5Ca3aQakdBXKBrmy",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 228
+        },
+        {
+            "name": "Krazy Cat-008",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 008 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmdHEBeGFbmqZb5K7Uzfcbs2tF34AzETvywgWm9fxcpH7T",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 229
+        },
+        {
+            "name": "Krazy Cat-080",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 080 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmfDfY7Bjb5Emurp8tp2M9zuxq1qK9rKfRweq8Vr6ZTS3E",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 230
+        },
+        {
+            "name": "Krazy Cat-081",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 081 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmaptHB3YMT1sWMswH8eKc4BXxDEZhpabjZxykLbLyrQ1h",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 231
+        },
+        {
+            "name": "Krazy Cat-082",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 082 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmUTfK8qgNHGuYG3A1otW2YxRGgqbJrUPn7sxmAAqsWSek",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 232
+        },
+        {
+            "name": "Krazy Cat-083",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 083 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmV5thGUM28XGnCtmyEr9gVMcTjEZCvuL1gbcfHMxv5mmS",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 233
+        },
+        {
+            "name": "Krazy Cat-084",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 084 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmNzegLJrFCGNzG6pF7hYfAzYEq3qsyU8CqumLukmeJhVQ",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 234
+        },
+        {
+            "name": "Krazy Cat-085",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 085 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/Qmcocz7UUJcZRByPUYmYWZLrTzKZxWRhut5wLVHxazBwyS",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 235
+        },
+        {
+            "name": "Krazy Cat-086",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 086 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmX6fCVH4Hm9W5Cmpm4UBUYRbywcpC5geCps4F7dpsQqfE",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 236
+        },
+        {
+            "name": "Krazy Cat-087",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 087 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmbSTmKyegXKr5jtKw8qmDpapKxJUFGeGpjm8xzCxpMNLj",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 237
+        },
+        {
+            "name": "Krazy Cat-088",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 088 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmVTrEKFC3G2AhTjzRSYufPA5BTzFhep8zTpR37V7jMNjB",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 238
+        },
+        {
+            "name": "Krazy Cat-089",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 089 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmW3DAQ6TQ6UFW3bdY3pnPbr9N3acFMKd2GZWAe5t37Nb2",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 239
+        },
+        {
+            "name": "Krazy Cat-009",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 009 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmejQENiUZnvjho8yTK6BCX338qfWKeQwsXytCqBjcRFS1",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 240
+        },
+        {
+            "name": "Krazy Cat-090",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 090 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmNawssxq4jcwY73toG7m4oNdbivuZq4LYkrvL2a81ALuC",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 241
+        },
+        {
+            "name": "Krazy Cat-091",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 091 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmR6BBp3QwcVSEB6B2kUFoMTgDMPVY2nDseQVF4N7fCX9B",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 242
+        },
+        {
+            "name": "Krazy Cat-092",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 092 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmQ3ja92btUMfDhtyBF95iAZ6APVWkvNSmdKaDAebS7NLx",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Uncommon",
+                    "percentage": "31.2% have this trait"
+                }
+            ],
+            "id": 243
+        },
+        {
+            "name": "Krazy Cat-093",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 093 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmWvuyvEYje3d426LhFHdkkyBxdbRRDufTGK9me4wNcuvz",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Legendary",
+                    "percentage": "2.4% have this trait"
+                }
+            ],
+            "id": 244
+        },
+        {
+            "name": "Krazy Cat-094",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 094 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmNrEzYPqomXM37Csacdpy6Mhj8SVfBLToFUJom84ZL3kQ",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 245
+        },
+        {
+            "name": "Krazy Cat-095",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 095 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmP227fAXEug9wuWJL7Q34HQvaggcEuJYov3ow9rkuwKnM",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 246
+        },
+        {
+            "name": "Krazy Cat-096",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 096 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmWKWfTUmG3mU9ZfBUb8uptYfrSvayMr4R5wtQXiZQsExQ",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 247
+        },
+        {
+            "name": "Krazy Cat-097",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 097 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmYFnqpE9rfnPdLnH3d25TNrjQ7kREN5TSHMM42D4E47R7",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Superrare",
+                    "percentage": "9.6% have this trait"
+                }
+            ],
+            "id": 248
+        },
+        {
+            "name": "Krazy Cat-098",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 098 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmTMKBaHueHB1Nbuyuyrrs6qu7FRTpuEjFjVMY3Ym5vzy7",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Rare",
+                    "percentage": "16.8% have this trait"
+                }
+            ],
+            "id": 249
+        },
+        {
+            "name": "Krazy Cat-099",
+            "description": "KrazyCats are a collection of randomized cat characters! This is 099 in a collection of 250 unique generated Cats on the ICON network.",
+            "image": "https://craft-network.mypinata.cloud/ipfs/QmbeBLxMDUTv2thR58yqeMVVnYKcJSH2XeNUTZb9yrMtEy",
+            "attributes": [
+                {
+                    "name": "Rarity",
+                    "value": "Common",
+                    "percentage": "40% have this trait"
+                }
+            ],
+            "id": 250
+        }
+    ]
+}
