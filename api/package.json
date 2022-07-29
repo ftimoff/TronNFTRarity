@@ -1,0 +1,32 @@
+{
+    "name": "icon-nft-rarity",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kryptopoo/icon-nft-rarity.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "engines": {
+        "node": "14.x"
+    },
+    "bugs": {
+        "url": "https://github.com/kryptopoo/icon-nft-rarity/issues"
+    },
+    "homepage": "https://github.com/kryptopoo/icon-nft-rarity#readme",
+    "dependencies": {
+        "axios": "^0.24.0",
+        "express": "^4.17.2",
+        "icon-sdk-js": "^1.1.3",
+        "minimist": "^1.2.5",
+        "node-json-db": "^1.4.1"
+    },
+    "devDependencies": {
+        "typescript": "^4.5.4"
+    }
+}
